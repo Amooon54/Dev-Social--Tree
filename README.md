@@ -9,8 +9,8 @@ A responsive personal link sharing page for developers. It allows users to displ
 - Dark mode toggle.
 - Smooth hover and color transactions.
 ## Screanshoot
-![Dark Mode](./assets/DarkMode.png)
-![light Mode](./assets/LightMode.png)
+![Dark Mode](./assets/Screenshot-2026-08-27-at-3.26.55-AM.png)
+![light Mode](./assets/Screenshot-2026-08-27-at-3.26.40-AM.png)
 ## Technologies 
 - HTML5
 - CSS3
